@@ -1,0 +1,9 @@
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Oylama\KareHesapla\KareHesapla\bin\Debug\KareHesapla.exe.config
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Oylama\KareHesapla\KareHesapla\bin\Debug\KareHesapla.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Oylama\KareHesapla\KareHesapla\bin\Debug\KareHesapla.pdb
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Oylama\KareHesapla\KareHesapla\obj\Debug\KareHesapla.csprojResolveAssemblyReference.cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Oylama\KareHesapla\KareHesapla\obj\Debug\KareHesapla.Form1.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Oylama\KareHesapla\KareHesapla\obj\Debug\KareHesapla.Properties.Resources.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Oylama\KareHesapla\KareHesapla\obj\Debug\KareHesapla.csproj.GenerateResource.Cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Oylama\KareHesapla\KareHesapla\obj\Debug\KareHesapla.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Oylama\KareHesapla\KareHesapla\obj\Debug\KareHesapla.pdb
